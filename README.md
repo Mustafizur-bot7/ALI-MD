@@ -3,7 +3,7 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 ```
 ---
 
-> **CURRENT BOT VERSION ➜ `4.0.0 ⚡`**
+> **CURRENT MUSTAFIZUR-BOT VERSION ➜ `4.0.0 ⚡`**
 ---
 
 
